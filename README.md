@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoDev2003
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML5 and CSS, and i also am in a university studying Systems Information
+- 🌱 I’m currently learning HTML5 and CSS, and i also am in a university studying Information Systems.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 
