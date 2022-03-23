@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunoDev2003
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML5, CSS, Javascript, PHP, React, and i also am in a university studying Information Systems.
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 
 <!---
