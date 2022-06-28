@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
   ##
   
   <div>
-  <a href="https://www.linkedin.com/in/bruno-mendon%C3%A7a-gusm%C3%A3o-274872219/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    <a href="mailto:brunogusmao43@gmail.com"><img src="https://imh.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-mendon%C3%A7a-gusm%C3%A3o-274872219/" target="_blank"><img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <a href="mailto:brunogusmao43@gmail.com"><img align ="center" height="30" width="40" src="https://imh.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
   </div>
     
     
