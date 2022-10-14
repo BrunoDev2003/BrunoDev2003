@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems.
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
+- Codesandbox: https://codesandbox.io/u/BrunoDev2003
+- CodePen: https://codepen.io/brunodev2003
+- Portfolio: https://brunodev-portfolio.herokuapp.com/
 
 <!---
 BrunoDev2003/BrunoDev2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +28,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="Bruno-php" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Bruno-JAVA" Height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Bruno-React" Height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img id="brunogif" align="right" alt="Bruno-gif" width="80"  src="https://cdn.discordapp.com/attachments/426389909192835072/991458746494619708/Design_sem_nome.gif">
+    <img id="brunogif" align="right" alt="Bruno-gif" width="130"  src="https://cdn.discordapp.com/attachments/426389909192835072/991458746494619708/Design_sem_nome.gif">
   </div>
   
   ##
