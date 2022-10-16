@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems.
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
+- Replit: https://replit.com/@BrunoDev2003
 - Codesandbox: https://codesandbox.io/u/BrunoDev2003
 - CodePen: https://codepen.io/brunodev2003
 - Portfolio: https://brunodev-portfolio.herokuapp.com/
