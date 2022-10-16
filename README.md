@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/BrunoDev2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDev2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDev2003&layout=compact&langs_count=16&theme=radical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BrunoDev2003&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDev2003&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
