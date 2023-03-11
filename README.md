@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunoDev2003
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems.
+- 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 - CodingGame: https://www.codingame.com/profile/a96ec5c71d90b4e766ecaced4950471c5239605
@@ -29,7 +29,9 @@
   </div>
   
   ##
-  
+  <div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=BrunoDev2003&theme=onedark)](https://github.com/BrunoDev2003/github-profile-trophy)
+  </div>
   <div>
   <a href="https://www.linkedin.com/in/bruno-mendon%C3%A7a-gusm%C3%A3o-274872219/" target="_blank"><img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     <a href="mailto:brunogusmao43@gmail.com"><img align ="center" height="30" width="40" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
