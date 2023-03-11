@@ -30,7 +30,7 @@
   
   ##
   <div>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=BrunoDev2003&theme=onedark)](https://github.com/BrunoDev2003/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=BrunoDev2003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
   <div>
   <a href="https://www.linkedin.com/in/bruno-mendon%C3%A7a-gusm%C3%A3o-274872219/" target="_blank"><img align ="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
