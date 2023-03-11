@@ -25,6 +25,7 @@
     <img align="center" alt="Bruno-php" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Bruno-JAVA" Height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Bruno-React" Height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img align="center" alt="Bruno-C" Height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img id="brunogif" align="right" alt="Bruno-gif" width="100"  src="https://cdn.discordapp.com/attachments/426389909192835072/991458746494619708/Design_sem_nome.gif">
   </div>
   
