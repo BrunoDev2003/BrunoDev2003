@@ -43,7 +43,7 @@
     <a href="https://www.reddit.com/user/Carl1458"><img align="center" height="30" width="40" src="	https://aleen42.github.io/badges/src/reddit.svg" target="_blank"></a>
     
     
-![github contribution grid snake animation](https://github.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
   </div>
 
 
