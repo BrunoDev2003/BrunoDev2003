@@ -49,7 +49,7 @@
   ![Visitor Count Badge](https://komarev.com/ghpvc/?username=BrunoDev2003&label=Profile%20views&color=0e75b6&style=flat)
   <!--END_SECTION:waka-->
     
-  ![snake animation](https://github.com/<BrunoDev2003>/<BrunoDev2003>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake-dark.svg)
   
   </div>
 
