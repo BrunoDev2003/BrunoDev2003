@@ -1,5 +1,5 @@
 <h2> Hi! I'm Bruno Mendonça Gusmão! AKA BrunoDev2003 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
+<img align='center' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
 <div>
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
@@ -11,17 +11,7 @@
 - CodePen: https://codepen.io/brunodev2003
 - p5js-Projects: https://editor.p5js.org/BrunoGameDev16/sketches
 - LeetCode: https://leetcode.com/brunogusmao43/
-- Portfolio: https://brunodev-portfolio.herokuapp.com/- 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
-- 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
-- 📫 How to reach me..my email: brunogusmao43@gmail.com
-- CodingGame: https://www.codingame.com/profile/a96ec5c71d90b4e766ecaced4950471c5239605
-- Replit: https://replit.com/@BrunoDev2003
-- Codesandbox: https://codesandbox.io/u/BrunoDev2003
-- CodePen: https://codepen.io/brunodev2003
-- p5js-Projects: https://editor.p5js.org/BrunoGameDev16/sketches
-- LeetCode: https://leetcode.com/brunogusmao43/
-- Portfolio: https://brunodev-portfolio.herokuapp.com/  
+- Portfolio: https://brunodev-portfolio.herokuapp.com/- 👀 I’m interested in software development 
 </div>
 
 
