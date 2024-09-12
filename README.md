@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BrunoDev2003
+<h2> Hi! I'm Bruno Mendonça Gusmão! AKA BrunoDev2003 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
@@ -16,7 +17,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDev2003&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDev2003&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
-  
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Js" Height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
