@@ -47,7 +47,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
     
-    
+![Visitor Count Badge](https://komarev.com/ghpvc/?username=BrunoDev2003&label=Profile%20views&color=0e75b6&style=flat)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
   </div>
 
