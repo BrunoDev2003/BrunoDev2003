@@ -1,6 +1,6 @@
 <h2> Hi! I'm Bruno Mendonça Gusmão! AKA BrunoDev2003 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='center' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
-<div>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
+
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
@@ -12,7 +12,6 @@
 - p5js-Projects: https://editor.p5js.org/BrunoGameDev16/sketches
 - LeetCode: https://leetcode.com/brunogusmao43/
 - Portfolio: https://brunodev-portfolio.herokuapp.com/- 👀 I’m interested in software development 
-</div>
 
 
 <div>
@@ -44,13 +43,14 @@
     <a href="https://www.discordapp.com/users/340925989989384194"><img align ="center" height="30" width="60" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/19635969/bruno-mendonça-gusmão"><img align="center" height="30" width="80" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
 
-  </div>
 
-  <div>
-    
+  <!--START_SECTION:waka-->
   ![Visitor Count Badge](https://komarev.com/ghpvc/?username=BrunoDev2003&label=Profile%20views&color=0e75b6&style=flat)
+  <!--END_SECTION:waka-->
+    
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
+  
   </div>
 
 
