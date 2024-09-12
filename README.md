@@ -40,7 +40,8 @@
     <a href="mailto:brunogusmao43@gmail.com"><img align ="center" height="30" width="40" src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo-gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.discordapp.com/users/340925989989384194"><img align ="center" height="30" width="60" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://stackoverflow.com/users/19635969/bruno-mendonça-gusmão"><img align="center" height="30" width="80" src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
-    
+
+<figure><embed src="https://wakatime.com/share/@e9d9009e-e843-42b1-8bef-8e3a8715a5f2/46b13160-012d-4934-949f-ded3000e6cea.svg"></embed></figure>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BrunoDev2003/BrunoDev2003/output/github-contribution-grid-snake.svg)
 
