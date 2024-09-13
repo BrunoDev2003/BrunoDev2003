@@ -10,8 +10,8 @@
 - Codesandbox: https://codesandbox.io/u/BrunoDev2003
 - CodePen: https://codepen.io/brunodev2003
 - p5js-Projects: https://editor.p5js.org/BrunoGameDev16/sketches
-- LeetCode: https://leetcode.com/brunogusmao43/
-- Portfolio: https://brunodev-portfolio.herokuapp.com/- 👀 I’m interested in software development 
+- LeetCode: https://leetcode.com/brunogusmao43
+- Portfolio: https://brunodev-portfolio.herokuapp.com- 👀 I’m interested in software development 
 
 
 <div>
