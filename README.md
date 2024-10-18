@@ -2,7 +2,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
 
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML5, CSS, Javascript, React, JAVA, and i also am in a university studying Information Systems, I work and study with systems development (Full Stack) with priority in Java..
+- 🌱 I'm working with web development (Full Stack) with priority in Java Spring for backend and React.JS in front-end.
 - 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 - CodingGame: https://www.codingame.com/profile/a96ec5c71d90b4e766ecaced4950471c5239605
