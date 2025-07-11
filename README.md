@@ -13,6 +13,7 @@
 - LeetCode: https://leetcode.com/brunogusmao43
 - Portfolio: https://brunodev-portfolio.herokuapp.com
 - Linkedin: www.linkedin.com/in/brunogusmão
+- Freelance work: https://freelancer.com.br/freelancers/bruno-9WXXBR16?nocache=1
 - 👀 I’m interested in software development 
 
 
