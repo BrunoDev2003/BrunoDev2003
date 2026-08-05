@@ -19,7 +19,6 @@
 - Portfolio: https://brunodev-portfolio.herokuapp.com
 - Linkedin: www.linkedin.com/in/brunogusmão
 - Freelance work: https://freelancer.com.br/freelancers/bruno-9WXXBR16?nocache=1
-- 👀 I’m interested in software development 
 
 
 <div>
@@ -27,7 +26,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDev2003&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDev2003&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
-  
+
+  TECNOLOGIAS:
   <div style="display: inline_block"><br>
     <img align="center" alt="Bruno-Js" Height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bruno-CSS" Height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
