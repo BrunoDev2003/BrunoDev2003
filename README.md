@@ -5,6 +5,10 @@
 - 🌱 I'm working with web development (Full Stack).
 - 💞️ I’m looking to collaborate on open source projects.
 - Linux Geek.
+- Chat apps development.
+- Chat Bots development.
+- Discord Bots development.
+- Redis data cache using PUB/SUB.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 - CodingGame: https://www.codingame.com/profile/a96ec5c71d90b4e766ecaced4950471c5239605
 - Replit: https://replit.com/@BrunoDev2003
