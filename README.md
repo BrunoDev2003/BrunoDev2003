@@ -1,9 +1,10 @@
 <h2> Hi! I'm Bruno Mendonça Gusmão! AKA BrunoDev2003 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></img>
 
-- 👀 I’m interested in software development
-- 🌱 I'm working with web development (Full Stack) with priority in Java Spring for backend and React.JS in front-end.
-- 💞️ I’m looking to collaborate on open source projects, and a internship on software development.
+- 👀 PHP Java Junior Software Developer.
+- 🌱 I'm working with web development (Full Stack).
+- 💞️ I’m looking to collaborate on open source projects.
+- Linux Geek.
 - 📫 How to reach me..my email: brunogusmao43@gmail.com
 - CodingGame: https://www.codingame.com/profile/a96ec5c71d90b4e766ecaced4950471c5239605
 - Replit: https://replit.com/@BrunoDev2003
