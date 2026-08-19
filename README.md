@@ -48,6 +48,7 @@ Currently working with PHP, Java, React, Docker and cloud integrations.
 
 - REST APIs
 - WhatsApp Business API integrations
+- Meta WhatsApp Graph API (Cloud API)
 - Telegram Bot API integrations
 - Dashboard monitoring using Grafana and GLPI
 - Redis Pub/Sub and cache optimization
